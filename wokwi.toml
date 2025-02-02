@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/tarefa1-aula-sincrona-27-01-interrupcoes.uf2'
+elf = 'build/tarefa1-aula-sincrona-27-01-interrupcoes.elf'
